@@ -1,4 +1,4 @@
-# Arduino-Vacanza
+# Descrizione
 
 # Simulazione 1
 Pushbutton1 makes red led bink 4 times whilse pushbutton makes green led blink 5 times.
