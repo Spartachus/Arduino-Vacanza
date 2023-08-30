@@ -3,3 +3,7 @@
 # Simulazione 1
 Pushbutton1 makes red led bink 4 times whilse pushbutton makes green led blink 5 times.
 ![image](https://github.com/Spartachus/Arduino-Vacanza/assets/106468069/fd330077-bd09-41ff-b78b-d158b0d514c7)
+
+# Simulazione 2
+Potentiometer increases or decreases the delay of the led
+![image](https://github.com/Spartachus/Arduino-Vacanza/assets/106468069/f0dfaa2e-1d94-4b9e-9c4f-4f8e9f31ac93)
