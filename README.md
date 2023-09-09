@@ -10,6 +10,7 @@ Potentiometer increases or decreases the delay of the led
 
 # Simulazione 3
 Semaforo di due incrocio
+
 ![image](https://github.com/Spartachus/Arduino-Vacanza/assets/106468069/9a98e24f-a0e9-4165-b1d5-d95f947671e3)
 
 # Simulazione 4
